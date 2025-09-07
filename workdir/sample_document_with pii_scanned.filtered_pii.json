@@ -1,0 +1,3730 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "width": 2550,
+      "height": 3300,
+      "words": [
+        {
+          "text": "INTERNAL",
+          "bbox": {
+            "x": 329,
+            "y": 341,
+            "w": 289,
+            "h": 42
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "MEMO",
+          "bbox": {
+            "x": 640,
+            "y": 340,
+            "w": 175,
+            "h": 44
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Date:",
+          "bbox": {
+            "x": 328,
+            "y": 579,
+            "w": 102,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "March",
+          "bbox": {
+            "x": 450,
+            "y": 579,
+            "w": 122,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "15,",
+          "bbox": {
+            "x": 592,
+            "y": 579,
+            "w": 55,
+            "h": 39
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "2024",
+          "bbox": {
+            "x": 664,
+            "y": 579,
+            "w": 99,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "RE:",
+          "bbox": {
+            "x": 328,
+            "y": 696,
+            "w": 69,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Project",
+          "bbox": {
+            "x": 417,
+            "y": 696,
+            "w": 139,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Handover",
+          "bbox": {
+            "x": 573,
+            "y": 696,
+            "w": 195,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Documentation",
+          "bbox": {
+            "x": 783,
+            "y": 696,
+            "w": 302,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "To:",
+          "bbox": {
+            "x": 326,
+            "y": 812,
+            "w": 61,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Sarah",
+          "bbox": {
+            "x": 405,
+            "y": 812,
+            "w": 118,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Johnson",
+          "bbox": {
+            "x": 539,
+            "y": 812,
+            "w": 169,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "From:",
+          "bbox": {
+            "x": 329,
+            "y": 946,
+            "w": 111,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Michael",
+          "bbox": {
+            "x": 460,
+            "y": 946,
+            "w": 152,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Chen",
+          "bbox": {
+            "x": 630,
+            "y": 946,
+            "w": 104,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Department:",
+          "bbox": {
+            "x": 328,
+            "y": 1079,
+            "w": 245,
+            "h": 42
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Customer",
+          "bbox": {
+            "x": 591,
+            "y": 1079,
+            "w": 198,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Relations",
+          "bbox": {
+            "x": 804,
+            "y": 1079,
+            "w": 186,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Branch:",
+          "bbox": {
+            "x": 328,
+            "y": 1212,
+            "w": 151,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Northeast",
+          "bbox": {
+            "x": 498,
+            "y": 1212,
+            "w": 195,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Regional",
+          "bbox": {
+            "x": 710,
+            "y": 1212,
+            "w": 174,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Office",
+          "bbox": {
+            "x": 902,
+            "y": 1212,
+            "w": 116,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Dear",
+          "bbox": {
+            "x": 328,
+            "y": 1346,
+            "w": 97,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Team,",
+          "bbox": {
+            "x": 438,
+            "y": 1346,
+            "w": 125,
+            "h": 39
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "This",
+          "bbox": {
+            "x": 326,
+            "y": 1462,
+            "w": 83,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "document",
+          "bbox": {
+            "x": 425,
+            "y": 1462,
+            "w": 199,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "contains",
+          "bbox": {
+            "x": 640,
+            "y": 1462,
+            "w": 167,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "sensitive",
+          "bbox": {
+            "x": 823,
+            "y": 1462,
+            "w": 175,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "information",
+          "bbox": {
+            "x": 1015,
+            "y": 1462,
+            "w": 220,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "regarding",
+          "bbox": {
+            "x": 1255,
+            "y": 1462,
+            "w": 188,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "the",
+          "bbox": {
+            "x": 1459,
+            "y": 1462,
+            "w": 61,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "handover",
+          "bbox": {
+            "x": 1538,
+            "y": 1462,
+            "w": 188,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "of",
+          "bbox": {
+            "x": 1739,
+            "y": 1462,
+            "w": 39,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "the",
+          "bbox": {
+            "x": 1790,
+            "y": 1462,
+            "w": 62,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Smith",
+          "bbox": {
+            "x": 1868,
+            "y": 1462,
+            "w": 112,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "&",
+          "bbox": {
+            "x": 1998,
+            "y": 1462,
+            "w": 27,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Associates",
+          "bbox": {
+            "x": 325,
+            "y": 1521,
+            "w": 219,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "account.",
+          "bbox": {
+            "x": 561,
+            "y": 1522,
+            "w": 167,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "1.",
+          "bbox": {
+            "x": 329,
+            "y": 1664,
+            "w": 34,
+            "h": 36
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Primary",
+          "bbox": {
+            "x": 384,
+            "y": 1664,
+            "w": 182,
+            "h": 47
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Contact",
+          "bbox": {
+            "x": 582,
+            "y": 1663,
+            "w": 184,
+            "h": 38
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Information:",
+          "bbox": {
+            "x": 783,
+            "y": 1663,
+            "w": 284,
+            "h": 38
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Client:",
+          "bbox": {
+            "x": 327,
+            "y": 1846,
+            "w": 124,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Robert",
+          "bbox": {
+            "x": 470,
+            "y": 1846,
+            "w": 134,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Smith",
+          "bbox": {
+            "x": 619,
+            "y": 1846,
+            "w": 113,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Position:",
+          "bbox": {
+            "x": 328,
+            "y": 1962,
+            "w": 169,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Chief",
+          "bbox": {
+            "x": 515,
+            "y": 1962,
+            "w": 106,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Financial",
+          "bbox": {
+            "x": 637,
+            "y": 1962,
+            "w": 176,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Officer",
+          "bbox": {
+            "x": 831,
+            "y": 1962,
+            "w": 134,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Email:",
+          "bbox": {
+            "x": 328,
+            "y": 2079,
+            "w": 120,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "robert.smith@smithassociates.com",
+          "bbox": {
+            "x": 468,
+            "y": 2078,
+            "w": 707,
+            "h": 44
+          },
+          "conf": 89,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "Phone:",
+          "bbox": {
+            "x": 328,
+            "y": 2196,
+            "w": 138,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "(555)",
+          "bbox": {
+            "x": 485,
+            "y": 2196,
+            "w": 103,
+            "h": 43
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "123-4567",
+          "bbox": {
+            "x": 607,
+            "y": 2196,
+            "w": 187,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "Address:",
+          "bbox": {
+            "x": 325,
+            "y": 2312,
+            "w": 177,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "742",
+          "bbox": {
+            "x": 520,
+            "y": 2312,
+            "w": 72,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Maple",
+          "bbox": {
+            "x": 610,
+            "y": 2312,
+            "w": 121,
+            "h": 42
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Avenue,",
+          "bbox": {
+            "x": 745,
+            "y": 2312,
+            "w": 164,
+            "h": 39
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Suite",
+          "bbox": {
+            "x": 928,
+            "y": 2312,
+            "w": 101,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "300,",
+          "bbox": {
+            "x": 1045,
+            "y": 2312,
+            "w": 83,
+            "h": 39
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Boston,",
+          "bbox": {
+            "x": 1148,
+            "y": 2312,
+            "w": 149,
+            "h": 39
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "MA",
+          "bbox": {
+            "x": 1316,
+            "y": 2312,
+            "w": 65,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "02108",
+          "bbox": {
+            "x": 1397,
+            "y": 2312,
+            "w": 123,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "2.",
+          "bbox": {
+            "x": 326,
+            "y": 2455,
+            "w": 37,
+            "h": 36
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Secondary",
+          "bbox": {
+            "x": 382,
+            "y": 2454,
+            "w": 253,
+            "h": 48
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Contacts:",
+          "bbox": {
+            "x": 652,
+            "y": 2454,
+            "w": 224,
+            "h": 38
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "\u00a2",
+          "bbox": {
+            "x": 327,
+            "y": 2648,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 65,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Jennifer",
+          "bbox": {
+            "x": 354,
+            "y": 2637,
+            "w": 163,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Williams",
+          "bbox": {
+            "x": 530,
+            "y": 2637,
+            "w": 168,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "(Legal",
+          "bbox": {
+            "x": 715,
+            "y": 2637,
+            "w": 122,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Counsel)",
+          "bbox": {
+            "x": 854,
+            "y": 2637,
+            "w": 181,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Contact:",
+          "bbox": {
+            "x": 327,
+            "y": 2754,
+            "w": 164,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "jwilliams@legalfirm.com,",
+          "bbox": {
+            "x": 506,
+            "y": 2753,
+            "w": 500,
+            "h": 44
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "+1-617-555-0123",
+          "bbox": {
+            "x": 1025,
+            "y": 2754,
+            "w": 349,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "\u00a2",
+          "bbox": {
+            "x": 327,
+            "y": 2882,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 47,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "David",
+          "bbox": {
+            "x": 356,
+            "y": 2871,
+            "w": 111,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Thompson",
+          "bbox": {
+            "x": 484,
+            "y": 2871,
+            "w": 212,
+            "h": 42
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 2550,
+      "height": 3300,
+      "words": [
+        {
+          "text": "Office:",
+          "bbox": {
+            "x": 327,
+            "y": 337,
+            "w": 126,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "123",
+          "bbox": {
+            "x": 475,
+            "y": 337,
+            "w": 70,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Corporate",
+          "bbox": {
+            "x": 561,
+            "y": 337,
+            "w": 200,
+            "h": 42
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Drive,",
+          "bbox": {
+            "x": 778,
+            "y": 337,
+            "w": 113,
+            "h": 39
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "New",
+          "bbox": {
+            "x": 911,
+            "y": 337,
+            "w": 87,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "York,",
+          "bbox": {
+            "x": 1013,
+            "y": 337,
+            "w": 102,
+            "h": 39
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "NY",
+          "bbox": {
+            "x": 1135,
+            "y": 337,
+            "w": 60,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "10001",
+          "bbox": {
+            "x": 1213,
+            "y": 337,
+            "w": 114,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "address"
+          }
+        },
+        {
+          "text": "Mobile:",
+          "bbox": {
+            "x": 328,
+            "y": 454,
+            "w": 140,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "555.777.8888",
+          "bbox": {
+            "x": 487,
+            "y": 454,
+            "w": 277,
+            "h": 34
+          },
+          "conf": 94,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "3.",
+          "bbox": {
+            "x": 327,
+            "y": 597,
+            "w": 36,
+            "h": 37
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Account",
+          "bbox": {
+            "x": 380,
+            "y": 597,
+            "w": 199,
+            "h": 37
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Details:",
+          "bbox": {
+            "x": 597,
+            "y": 597,
+            "w": 173,
+            "h": 37
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Account",
+          "bbox": {
+            "x": 325,
+            "y": 779,
+            "w": 164,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Manager:",
+          "bbox": {
+            "x": 506,
+            "y": 779,
+            "w": 187,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Emily",
+          "bbox": {
+            "x": 712,
+            "y": 779,
+            "w": 108,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Rodriguez",
+          "bbox": {
+            "x": 837,
+            "y": 779,
+            "w": 205,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Client",
+          "bbox": {
+            "x": 327,
+            "y": 896,
+            "w": 114,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "ID:",
+          "bbox": {
+            "x": 458,
+            "y": 896,
+            "w": 51,
+            "h": 33
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "SA-2024-789",
+          "bbox": {
+            "x": 528,
+            "y": 896,
+            "w": 266,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "id_number"
+          }
+        },
+        {
+          "text": "Social",
+          "bbox": {
+            "x": 327,
+            "y": 1012,
+            "w": 119,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Security:",
+          "bbox": {
+            "x": 464,
+            "y": 1012,
+            "w": 173,
+            "h": 43
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "123-45-6789",
+          "bbox": {
+            "x": 658,
+            "y": 1012,
+            "w": 253,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "id_number"
+          }
+        },
+        {
+          "text": "Tax",
+          "bbox": {
+            "x": 326,
+            "y": 1129,
+            "w": 74,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "ID:",
+          "bbox": {
+            "x": 418,
+            "y": 1129,
+            "w": 50,
+            "h": 33
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "12-3456789",
+          "bbox": {
+            "x": 490,
+            "y": 1129,
+            "w": 238,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "id_number"
+          }
+        },
+        {
+          "text": "4.",
+          "bbox": {
+            "x": 326,
+            "y": 1272,
+            "w": 37,
+            "h": 36
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Project",
+          "bbox": {
+            "x": 384,
+            "y": 1272,
+            "w": 165,
+            "h": 47
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Stakeholders:",
+          "bbox": {
+            "x": 566,
+            "y": 1271,
+            "w": 323,
+            "h": 38
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "*",
+          "bbox": {
+            "x": 327,
+            "y": 1465,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 59,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Technical",
+          "bbox": {
+            "x": 354,
+            "y": 1454,
+            "w": 192,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Lead:",
+          "bbox": {
+            "x": 565,
+            "y": 1454,
+            "w": 108,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "James",
+          "bbox": {
+            "x": 691,
+            "y": 1454,
+            "w": 132,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "O'Connor",
+          "bbox": {
+            "x": 839,
+            "y": 1454,
+            "w": 194,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Email:",
+          "bbox": {
+            "x": 328,
+            "y": 1571,
+            "w": 120,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "joconnor@techteam.net",
+          "bbox": {
+            "x": 463,
+            "y": 1570,
+            "w": 488,
+            "h": 44
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "Extension:",
+          "bbox": {
+            "x": 328,
+            "y": 1687,
+            "w": 207,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "x4567",
+          "bbox": {
+            "x": 552,
+            "y": 1687,
+            "w": 123,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "*",
+          "bbox": {
+            "x": 327,
+            "y": 1815,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 47,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "QA",
+          "bbox": {
+            "x": 355,
+            "y": 1804,
+            "w": 64,
+            "h": 35
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Manager:",
+          "bbox": {
+            "x": 435,
+            "y": 1804,
+            "w": 187,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Patricia",
+          "bbox": {
+            "x": 642,
+            "y": 1804,
+            "w": 147,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Lee-Wong",
+          "bbox": {
+            "x": 807,
+            "y": 1804,
+            "w": 206,
+            "h": 43
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Contact:",
+          "bbox": {
+            "x": 327,
+            "y": 1921,
+            "w": 164,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "(555)",
+          "bbox": {
+            "x": 511,
+            "y": 1921,
+            "w": 103,
+            "h": 43
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "999-0000",
+          "bbox": {
+            "x": 630,
+            "y": 1921,
+            "w": 189,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "\u00a2",
+          "bbox": {
+            "x": 327,
+            "y": 2048,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 68,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "External",
+          "bbox": {
+            "x": 356,
+            "y": 2037,
+            "w": 162,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Consultant:",
+          "bbox": {
+            "x": 536,
+            "y": 2037,
+            "w": 226,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Dr.",
+          "bbox": {
+            "x": 782,
+            "y": 2037,
+            "w": 54,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Alexander",
+          "bbox": {
+            "x": 853,
+            "y": 2037,
+            "w": 207,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Martinez,",
+          "bbox": {
+            "x": 1075,
+            "y": 2037,
+            "w": 181,
+            "h": 39
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "PhD",
+          "bbox": {
+            "x": 1276,
+            "y": 2037,
+            "w": 84,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Email:",
+          "bbox": {
+            "x": 328,
+            "y": 2154,
+            "w": 120,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "a.martinez@consultancy.org",
+          "bbox": {
+            "x": 467,
+            "y": 2153,
+            "w": 577,
+            "h": 44
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "Cell:",
+          "bbox": {
+            "x": 327,
+            "y": 2271,
+            "w": 85,
+            "h": 34
+          },
+          "conf": 94,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "+1",
+          "bbox": {
+            "x": 431,
+            "y": 2271,
+            "w": 42,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "(555)",
+          "bbox": {
+            "x": 497,
+            "y": 2271,
+            "w": 103,
+            "h": 43
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "888-7777",
+          "bbox": {
+            "x": 616,
+            "y": 2271,
+            "w": 190,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "5.",
+          "bbox": {
+            "x": 327,
+            "y": 2415,
+            "w": 36,
+            "h": 36
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Additional",
+          "bbox": {
+            "x": 380,
+            "y": 2414,
+            "w": 242,
+            "h": 37
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Information:",
+          "bbox": {
+            "x": 641,
+            "y": 2413,
+            "w": 284,
+            "h": 38
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Previous",
+          "bbox": {
+            "x": 328,
+            "y": 2596,
+            "w": 173,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "handling",
+          "bbox": {
+            "x": 519,
+            "y": 2596,
+            "w": 167,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "was",
+          "bbox": {
+            "x": 702,
+            "y": 2605,
+            "w": 79,
+            "h": 25
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "done",
+          "bbox": {
+            "x": 797,
+            "y": 2596,
+            "w": 99,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "by",
+          "bbox": {
+            "x": 913,
+            "y": 2596,
+            "w": 45,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Tom",
+          "bbox": {
+            "x": 973,
+            "y": 2596,
+            "w": 87,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Wilson",
+          "bbox": {
+            "x": 1077,
+            "y": 2596,
+            "w": 133,
+            "h": 34
+          },
+          "conf": 92,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "(tom.wilson@company.com)",
+          "bbox": {
+            "x": 1229,
+            "y": 2595,
+            "w": 575,
+            "h": 44
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "who",
+          "bbox": {
+            "x": 1818,
+            "y": 2596,
+            "w": 82,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "has",
+          "bbox": {
+            "x": 1918,
+            "y": 2596,
+            "w": 69,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "since",
+          "bbox": {
+            "x": 2003,
+            "y": 2596,
+            "w": 104,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "moved",
+          "bbox": {
+            "x": 328,
+            "y": 2654,
+            "w": 131,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "to",
+          "bbox": {
+            "x": 476,
+            "y": 2655,
+            "w": 36,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "our",
+          "bbox": {
+            "x": 527,
+            "y": 2663,
+            "w": 66,
+            "h": 25
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Singapore",
+          "bbox": {
+            "x": 607,
+            "y": 2654,
+            "w": 205,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "office.",
+          "bbox": {
+            "x": 827,
+            "y": 2654,
+            "w": 118,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "For",
+          "bbox": {
+            "x": 965,
+            "y": 2654,
+            "w": 66,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "urgent",
+          "bbox": {
+            "x": 1046,
+            "y": 2655,
+            "w": 126,
+            "h": 42
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "matters,",
+          "bbox": {
+            "x": 1189,
+            "y": 2655,
+            "w": 158,
+            "h": 38
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "you",
+          "bbox": {
+            "x": 1365,
+            "y": 2663,
+            "w": 69,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "can",
+          "bbox": {
+            "x": 1452,
+            "y": 2663,
+            "w": 69,
+            "h": 25
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "reach",
+          "bbox": {
+            "x": 1540,
+            "y": 2654,
+            "w": 109,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "him",
+          "bbox": {
+            "x": 1667,
+            "y": 2654,
+            "w": 68,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "at",
+          "bbox": {
+            "x": 1753,
+            "y": 2655,
+            "w": 36,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "+65",
+          "bbox": {
+            "x": 1804,
+            "y": 2654,
+            "w": 74,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "9123",
+          "bbox": {
+            "x": 1895,
+            "y": 2654,
+            "w": 98,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "4567.",
+          "bbox": {
+            "x": 2007,
+            "y": 2654,
+            "w": 111,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "6.",
+          "bbox": {
+            "x": 327,
+            "y": 2797,
+            "w": 36,
+            "h": 37
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Client's",
+          "bbox": {
+            "x": 382,
+            "y": 2796,
+            "w": 174,
+            "h": 38
+          },
+          "conf": 79,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Banking",
+          "bbox": {
+            "x": 577,
+            "y": 2797,
+            "w": 189,
+            "h": 47
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Information:",
+          "bbox": {
+            "x": 787,
+            "y": 2796,
+            "w": 284,
+            "h": 38
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 2550,
+      "height": 3300,
+      "words": [
+        {
+          "text": "Account",
+          "bbox": {
+            "x": 325,
+            "y": 337,
+            "w": 164,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Holder:",
+          "bbox": {
+            "x": 507,
+            "y": 337,
+            "w": 140,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Smith",
+          "bbox": {
+            "x": 665,
+            "y": 337,
+            "w": 113,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "&",
+          "bbox": {
+            "x": 795,
+            "y": 337,
+            "w": 27,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Associates",
+          "bbox": {
+            "x": 837,
+            "y": 337,
+            "w": 219,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "LLC",
+          "bbox": {
+            "x": 1074,
+            "y": 337,
+            "w": 79,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Account",
+          "bbox": {
+            "x": 325,
+            "y": 454,
+            "w": 164,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Number:",
+          "bbox": {
+            "x": 506,
+            "y": 454,
+            "w": 169,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "1234567890",
+          "bbox": {
+            "x": 696,
+            "y": 454,
+            "w": 248,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "id_number"
+          }
+        },
+        {
+          "text": "Routing",
+          "bbox": {
+            "x": 328,
+            "y": 571,
+            "w": 152,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Number:",
+          "bbox": {
+            "x": 498,
+            "y": 571,
+            "w": 169,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "021000021",
+          "bbox": {
+            "x": 686,
+            "y": 571,
+            "w": 219,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "id_number"
+          }
+        },
+        {
+          "text": "Bank:",
+          "bbox": {
+            "x": 328,
+            "y": 687,
+            "w": 110,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Chase",
+          "bbox": {
+            "x": 456,
+            "y": 687,
+            "w": 129,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Manhattan",
+          "bbox": {
+            "x": 603,
+            "y": 687,
+            "w": 210,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Branch:",
+          "bbox": {
+            "x": 328,
+            "y": 804,
+            "w": 151,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Financial",
+          "bbox": {
+            "x": 499,
+            "y": 804,
+            "w": 176,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "District",
+          "bbox": {
+            "x": 694,
+            "y": 804,
+            "w": 137,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "7.",
+          "bbox": {
+            "x": 327,
+            "y": 965,
+            "w": 36,
+            "h": 35
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "System",
+          "bbox": {
+            "x": 382,
+            "y": 963,
+            "w": 173,
+            "h": 48
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Access:",
+          "bbox": {
+            "x": 572,
+            "y": 964,
+            "w": 187,
+            "h": 37
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Username:",
+          "bbox": {
+            "x": 328,
+            "y": 1146,
+            "w": 217,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "rsmith_admin",
+          "bbox": {
+            "x": 564,
+            "y": 1146,
+            "w": 269,
+            "h": 42
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "id_number"
+          }
+        },
+        {
+          "text": "Password:",
+          "bbox": {
+            "x": 328,
+            "y": 1262,
+            "w": 207,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "S3cur3P@ss2024!",
+          "bbox": {
+            "x": 553,
+            "y": 1261,
+            "w": 377,
+            "h": 44
+          },
+          "conf": 90,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "IP",
+          "bbox": {
+            "x": 329,
+            "y": 1379,
+            "w": 37,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Address:",
+          "bbox": {
+            "x": 381,
+            "y": 1379,
+            "w": 177,
+            "h": 34
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "192.168.1.100",
+          "bbox": {
+            "x": 579,
+            "y": 1379,
+            "w": 286,
+            "h": 34
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "ip"
+          }
+        },
+        {
+          "text": "Please",
+          "bbox": {
+            "x": 328,
+            "y": 1496,
+            "w": 135,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "ensure",
+          "bbox": {
+            "x": 479,
+            "y": 1505,
+            "w": 137,
+            "h": 25
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "all",
+          "bbox": {
+            "x": 632,
+            "y": 1496,
+            "w": 41,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "communication",
+          "bbox": {
+            "x": 691,
+            "y": 1496,
+            "w": 302,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "follows",
+          "bbox": {
+            "x": 1010,
+            "y": 1496,
+            "w": 138,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "our",
+          "bbox": {
+            "x": 1164,
+            "y": 1505,
+            "w": 65,
+            "h": 25
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "security",
+          "bbox": {
+            "x": 1243,
+            "y": 1496,
+            "w": 155,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "protocols.",
+          "bbox": {
+            "x": 1415,
+            "y": 1496,
+            "w": 192,
+            "h": 42
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "For",
+          "bbox": {
+            "x": 1628,
+            "y": 1496,
+            "w": 65,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "any",
+          "bbox": {
+            "x": 1707,
+            "y": 1505,
+            "w": 71,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "questions,",
+          "bbox": {
+            "x": 1794,
+            "y": 1496,
+            "w": 203,
+            "h": 42
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "contact",
+          "bbox": {
+            "x": 2015,
+            "y": 1497,
+            "w": 145,
+            "h": 33
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "our",
+          "bbox": {
+            "x": 326,
+            "y": 1563,
+            "w": 65,
+            "h": 25
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "compliance",
+          "bbox": {
+            "x": 405,
+            "y": 1554,
+            "w": 228,
+            "h": 42
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "officer",
+          "bbox": {
+            "x": 648,
+            "y": 1554,
+            "w": 125,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Mark",
+          "bbox": {
+            "x": 787,
+            "y": 1554,
+            "w": 98,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Anderson",
+          "bbox": {
+            "x": 898,
+            "y": 1554,
+            "w": 193,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "at",
+          "bbox": {
+            "x": 1109,
+            "y": 1555,
+            "w": 35,
+            "h": 33
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "manderson@compliance.company.com",
+          "bbox": {
+            "x": 1160,
+            "y": 1553,
+            "w": 800,
+            "h": 44
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "or",
+          "bbox": {
+            "x": 1976,
+            "y": 1563,
+            "w": 41,
+            "h": 25
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "extension",
+          "bbox": {
+            "x": 2030,
+            "y": 1554,
+            "w": 191,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "5555.",
+          "bbox": {
+            "x": 327,
+            "y": 1612,
+            "w": 108,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "Best",
+          "bbox": {
+            "x": 328,
+            "y": 1729,
+            "w": 87,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "regards,",
+          "bbox": {
+            "x": 432,
+            "y": 1729,
+            "w": 161,
+            "h": 43
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Michael",
+          "bbox": {
+            "x": 328,
+            "y": 1846,
+            "w": 151,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Chen",
+          "bbox": {
+            "x": 497,
+            "y": 1846,
+            "w": 104,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Senior",
+          "bbox": {
+            "x": 327,
+            "y": 1962,
+            "w": 131,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Account",
+          "bbox": {
+            "x": 470,
+            "y": 1962,
+            "w": 165,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Manager",
+          "bbox": {
+            "x": 651,
+            "y": 1962,
+            "w": 179,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Direct:",
+          "bbox": {
+            "x": 328,
+            "y": 2079,
+            "w": 125,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "(555)",
+          "bbox": {
+            "x": 473,
+            "y": 2079,
+            "w": 102,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "234-5678",
+          "bbox": {
+            "x": 590,
+            "y": 2079,
+            "w": 192,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "phone"
+          }
+        },
+        {
+          "text": "michael.chen@company.com",
+          "bbox": {
+            "x": 328,
+            "y": 2195,
+            "w": 595,
+            "h": 44
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "email"
+          }
+        },
+        {
+          "text": "CC:",
+          "bbox": {
+            "x": 327,
+            "y": 2312,
+            "w": 73,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "\u00a2",
+          "bbox": {
+            "x": 327,
+            "y": 2440,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 47,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Lisa",
+          "bbox": {
+            "x": 356,
+            "y": 2429,
+            "w": 79,
+            "h": 34
+          },
+          "conf": 94,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Brown",
+          "bbox": {
+            "x": 453,
+            "y": 2429,
+            "w": 123,
+            "h": 34
+          },
+          "conf": 94,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "(HR",
+          "bbox": {
+            "x": 596,
+            "y": 2429,
+            "w": 77,
+            "h": 43
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Director)",
+          "bbox": {
+            "x": 690,
+            "y": 2429,
+            "w": 171,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "*",
+          "bbox": {
+            "x": 327,
+            "y": 2557,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 60,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Kevin",
+          "bbox": {
+            "x": 356,
+            "y": 2546,
+            "w": 108,
+            "h": 34
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "O'Brien",
+          "bbox": {
+            "x": 483,
+            "y": 2546,
+            "w": 146,
+            "h": 34
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "(Risk",
+          "bbox": {
+            "x": 648,
+            "y": 2546,
+            "w": 100,
+            "h": 43
+          },
+          "conf": 95,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Management)",
+          "bbox": {
+            "x": 765,
+            "y": 2546,
+            "w": 278,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "\u00a2",
+          "bbox": {
+            "x": 327,
+            "y": 2673,
+            "w": 12,
+            "h": 12
+          },
+          "conf": 58,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        },
+        {
+          "text": "Maria",
+          "bbox": {
+            "x": 356,
+            "y": 2662,
+            "w": 109,
+            "h": 34
+          },
+          "conf": 93,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "Garcia-Lopez",
+          "bbox": {
+            "x": 483,
+            "y": 2662,
+            "w": 272,
+            "h": 42
+          },
+          "conf": 91,
+          "source": "ocr",
+          "pii": {
+            "is_pii": true,
+            "type": "name"
+          }
+        },
+        {
+          "text": "(Compliance)",
+          "bbox": {
+            "x": 771,
+            "y": 2662,
+            "w": 269,
+            "h": 43
+          },
+          "conf": 96,
+          "source": "ocr",
+          "pii": {
+            "is_pii": false,
+            "type": null
+          }
+        }
+      ]
+    }
+  ]
+}
